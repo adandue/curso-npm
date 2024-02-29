@@ -19,5 +19,12 @@
   "bugs": {
     "url": "https://github.com/adandue/curso-npm/issues"
   },
-  "homepage": "https://github.com/adandue/curso-npm#readme"
+  "homepage": "https://github.com/adandue/curso-npm#readme",
+  "dependencies": {
+    "moment": "^2.30.1",
+    "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0"
+  }
 }
